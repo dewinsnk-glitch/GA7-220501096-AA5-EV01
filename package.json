@@ -1,0 +1,12 @@
+{
+  "name": "producto-backend",
+  "version": "1.0.0",
+  "description": "API de registro e inicio de sesion",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
